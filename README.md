@@ -1,7 +1,6 @@
   # Paardensprong
 A video demo of this game can be found <a href="https://youtu.be/1r7oum8WRgk">Here</a> <br>
 <br>
-Project name
 Paardensprong / Horsejump
 
 

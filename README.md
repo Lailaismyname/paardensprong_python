@@ -19,19 +19,19 @@ If you start the game, and guess the word correctly you will receive a little ho
 You can guess words to infinity and beyond, although there are only 1014 words in the text file.
 If you play long enough, you might run into a few of the same words
 
-Getting Started
-Run the program in the terminal
+Getting Started<br>
+Run the program in the terminal<br>
 
-Prerequisites
-instal with pip
-tabulate
-pyfiglet
-colorama
-cowpy
+Prerequisites<br>
+instal with pip<br>
+tabulate<br>
+pyfiglet<br>
+colorama<br>
+cowpy<br>
 
-Installing
-pip install tabulate
-pip install pyfiglet
-pip install colorama
-pip install cowpy
+Installing<br>
+pip install tabulate<br>
+pip install pyfiglet<br>
+pip install colorama<br>
+pip install cowpy<br>
 

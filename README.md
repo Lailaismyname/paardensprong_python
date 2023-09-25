@@ -1,5 +1,5 @@
   # Paardensprong
-    #### Video Demo:  https://youtu.be/1r7oum8WRgk
+A video demo of this game can be found on : https://youtu.be/1r7oum8WRgk
 Project name:
 
 Paardensprong / Horsejump
@@ -19,8 +19,6 @@ Pressing Ctrl + D at any time will quit the game for you.
 If you start the game, and guess the word correctly you will receive a little horse and the next word to guess will be shown on screen.
 You can guess words to infinity and beyond, although there are only 1014 words in the text file.
 If you play long enough, you might run into a few of the same words
-
-A video demo of this game can be found on : #### https://youtu.be/1r7oum8WRgk
 
 Getting Started
 Run the program in the terminal
